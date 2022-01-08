@@ -167,6 +167,17 @@ a.social:hover {
   clear: both;
 }
 
+/* Additional styles for resume.html */
+.job-school {
+  color: #5E6266;
+}
+.resume-details {
+  list-style-type: none;
+}
+.resume-details li {
+  margin-bottom: 0.3em;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
