@@ -97,7 +97,6 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
-  position: sticky;
 }
 .card:hover {
   border-color: #ff99ff;
@@ -204,6 +203,7 @@ a.social:hover {
       -ms-flex-pack: distribute;
       justify-content: space-around;
       margin: 0 auto;
+      flex-wrap: wrap;
   }
 
   header {
