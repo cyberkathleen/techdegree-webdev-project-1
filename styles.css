@@ -131,10 +131,11 @@ ul.skills {
 
 .abstract {
   margin: 30px;
-  max-height: 160px;
-  max-width: 325px;
+  padding: 2px;
   background: #000;
   border-radius: 10px;
+  max-width: 80%;
+  max-height: 300px;
 }
 
 footer {
